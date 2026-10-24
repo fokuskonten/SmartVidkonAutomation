@@ -1,0 +1,14 @@
+<Configuration>
+  <VGpu>Enable</VGpu>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>D:\FokusKonten-Server\App_Dektop\Smart_Vidkon_Automation</HostFolder>
+      <SandboxFolder>C:\SmartVidkon</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>powershell -ExecutionPolicy Bypass -Command "$ws = New-Object -ComObject WScript.Shell; $d = [Environment]::GetFolderPath('Desktop'); $sc1 = $ws.CreateShortcut($d + '\1_Pasang Setup Lengkap (Aset Uji).lnk'); $sc1.TargetPath = 'C:\SmartVidkon\dist\SmartVidkonAutomation_Setup_v1.0.0.exe'; $sc1.Save(); $sc2 = $ws.CreateShortcut($d + '\2_Pasang Setup Bersih (Winget 76MB).lnk'); $sc2.TargetPath = 'C:\SmartVidkon\dist\SmartVidkonAutomation_Setup_Clean_v1.0.0.exe'; $sc2.Save(); $sc3 = $ws.CreateShortcut($d + '\3_Jalankan Portable Langsung.lnk'); $sc3.TargetPath = 'C:\SmartVidkon\SmartVidkonAutomation.exe'; $sc3.Save(); Start-Process explorer.exe 'C:\SmartVidkon\dist'"</Command>
+  </LogonCommand>
+</Configuration>

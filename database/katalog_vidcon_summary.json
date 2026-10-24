@@ -1,0 +1,2977 @@
+{
+  "catalogName": "Katalog Master Bahan Konten Video FokusKonten (VIDCON Tier-1)",
+  "version": "3.2.0 (4-Tier Curated Taxonomy & Dual-Hook Booster)",
+  "description": "Basis Data Terstruktur Footage & Mentahan Video Konten Vertikal (9:16) Lokal Hard Disk H: dengan Pemetaan Rumpun Indukan Emosi, Interleaving Sekuensial, dan Pemicu Kata Naskah",
+  "tierPriority": "TIER-1 (Offline Super-Fast Local Retrieval, Zero Download Bandwidth)",
+  "rootPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN",
+  "totalClusters": 9,
+  "clusters": {
+    "CLUSTER_HARD_REALITY": {
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "description": "Pilar utama motivasi maskulin, disiplin keras, realitas hidup, dan perjuangan keluar dari kemiskinan.",
+      "emotionalAura": "Dingin, Tegas, Stoik, Kharismatik, Realitas Pahit, Mental Baja, Pantang Menyerah",
+      "primarySku": "ID9919",
+      "siblingSkus": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "defaultInterleaving": [
+        "ID9919",
+        "IDB7CA",
+        "ID9919",
+        "IDFFA0",
+        "ID9919",
+        "ID8F64"
+      ],
+      "contextualTriggers": [
+        "mental",
+        "baja",
+        "fokus",
+        "disiplin",
+        "realitas",
+        "hidup",
+        "uang",
+        "miskin",
+        "kemiskinan",
+        "keras",
+        "pria",
+        "bangkit",
+        "takdir",
+        "berjuang",
+        "tahan banting",
+        "sukses",
+        "bertahan hidup",
+        "mandiri",
+        "pantang menyerah",
+        "prinsip",
+        "diam",
+        "bekerja keras",
+        "rintangan",
+        "keringat"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ]
+    },
+    "CLUSTER_MELANCHOLY_SOUL": {
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "description": "Pilar emosional perenungan, rasa sepi, kelelahan mental, pemulihan jiwa, dan kedalaman misteri.",
+      "emotionalAura": "Hampa, Kesepian, Hujan, Perenungan Batin, Malam Sepi, Ketenangan Jiwa, Sendu, Syahdu",
+      "primarySku": "ID7792",
+      "siblingSkus": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "defaultInterleaving": [
+        "ID7792",
+        "IDFCC3",
+        "ID7667",
+        "ID4834"
+      ],
+      "contextualTriggers": [
+        "kesepian",
+        "hampa",
+        "lelah",
+        "batin",
+        "tenang",
+        "hujan",
+        "senja",
+        "sendiri",
+        "air mata",
+        "menangis",
+        "jiwa",
+        "sunyi",
+        "kesunyian",
+        "meragukan",
+        "menyerah",
+        "damai",
+        "meditasi",
+        "istirahat",
+        "perenungan",
+        "gelap",
+        "misteri",
+        "kedalaman",
+        "samudra",
+        "tuhan",
+        "doa"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ]
+    },
+    "CLUSTER_CRAFT_TRANSFORMATION": {
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "description": "Pilar aksi nyata di dunia fisik: perbaikan dari titik terendah (mengikis karat), keterampilan tangan, dan mesin.",
+      "emotionalAura": "Aksi Fisik, Kerja Keras Nyata, Mengikis Karat, Memperbaiki Yang Rusak, Presisi, Keringat",
+      "primarySku": "ID9C29",
+      "siblingSkus": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "defaultInterleaving": [
+        "ID9C29",
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF"
+      ],
+      "contextualTriggers": [
+        "aksi nyata",
+        "keterampilan",
+        "kerja keras",
+        "memperbaiki",
+        "mengikis karat",
+        "alat",
+        "bengkel",
+        "pabrik",
+        "tangan",
+        "mesin",
+        "presisi",
+        "bangkit",
+        "berkeringat",
+        "keahlian",
+        "modal usaha",
+        "perkakas",
+        "solusi nyata",
+        "otodidak",
+        "tukang",
+        "industri",
+        "kayu",
+        "baja"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ]
+    },
+    "CLUSTER_NOSTALGIA_HISTORY": {
+      "clusterId": "CLUSTER_NOSTALGIA_HISTORY",
+      "clusterName": "Memori Masa Lalu, Bioskop Lawas & Sejarah",
+      "description": "Pilar kilas balik masa lalu, arsip rekaman klasik, sejarah orang tua, dan bioskop retro.",
+      "emotionalAura": "Nostalgia, Masa Lampau, Rekaman Lawas, Bioskop Jadul, Sejarah, Kisah Orang Tua, Sinema Klasik",
+      "primarySku": "IDE830",
+      "siblingSkus": [
+        "IDE8B2"
+      ],
+      "defaultInterleaving": [
+        "IDE830",
+        "IDE8B2"
+      ],
+      "contextualTriggers": [
+        "lawas",
+        "zaman dulu",
+        "tempo dulu",
+        "orang tua",
+        "masa lalu",
+        "sejarah",
+        "kakek",
+        "nenek",
+        "bioskop",
+        "jadul",
+        "kenangan",
+        "masa lampau",
+        "zaman",
+        "klasik",
+        "retro",
+        "80an",
+        "90an",
+        "silsilah",
+        "leluhur",
+        "kisah lama",
+        "ingatan"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_TECH_FUTURE",
+        "CLUSTER_HUMOR_SATIRE"
+      ]
+    },
+    "CLUSTER_PUBLIC_CHARM": {
+      "clusterId": "CLUSTER_PUBLIC_CHARM",
+      "clusterName": "Daya Tarik Publik, Persona & Hook Sorotan",
+      "description": "Pilar eksposur sosial, gaya berpakaian, pesona publik, pengakuan sosial, dan daya pikat viral.",
+      "emotionalAura": "Sorotan Publik, Gaya Memikat, Daya Tarik Sosial, Tampil Keren, Viral, Menarik Perhatian",
+      "primarySku": "IDE0C2",
+      "siblingSkus": [
+        "ID1AF4",
+        "IDA71C",
+        "ID617C"
+      ],
+      "defaultInterleaving": [
+        "IDE0C2",
+        "ID1AF4",
+        "IDA71C"
+      ],
+      "contextualTriggers": [
+        "publik",
+        "gaya",
+        "terlihat bagus di publik",
+        "sorotan",
+        "daya tarik",
+        "pesona",
+        "memikat",
+        "viral",
+        "hook",
+        "perhatian",
+        "sosial",
+        "tampil",
+        "pujian",
+        "pengakuan sosial",
+        "pamer",
+        "gaya hidup",
+        "orang lain melihat",
+        "reputasi",
+        "penampilan",
+        "daya tawar",
+        "percaya diri"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_MELANCHOLY_SOUL"
+      ]
+    },
+    "CLUSTER_TECH_FUTURE": {
+      "clusterId": "CLUSTER_TECH_FUTURE",
+      "clusterName": "Teknologi, AI, Sains & Masa Depan Cyberpunk",
+      "description": "Pilar modernitas, era digital, AI, pemrograman, sains canggih, dan visual neon.",
+      "emotionalAura": "Futuristik, Teknologi Canggih, Neon Cyberpunk, Robotik, Sains Modern, Visual Hipnotis",
+      "primarySku": "ID1646",
+      "siblingSkus": [
+        "IDE5EF",
+        "ID3199"
+      ],
+      "defaultInterleaving": [
+        "ID1646",
+        "IDE5EF",
+        "ID3199"
+      ],
+      "contextualTriggers": [
+        "teknologi",
+        "sains",
+        "masa depan",
+        "digital",
+        "robot",
+        "cyber",
+        "ai",
+        "otomasi",
+        "canggih",
+        "sistem",
+        "modern",
+        "pemrograman",
+        "algoritma",
+        "internet",
+        "era digital",
+        "ilmu",
+        "komputer",
+        "ponsel",
+        "koneksi internet"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_NOSTALGIA_HISTORY"
+      ]
+    },
+    "CLUSTER_HUMOR_SATIRE": {
+      "clusterId": "CLUSTER_HUMOR_SATIRE",
+      "clusterName": "Komedi, Satir & Absurditas Kehidupan",
+      "description": "Pilar humor, kejeniusan satir, asupan receh, dan komedi ekspresif.",
+      "emotionalAura": "Lucu, Santai, Receh, Absurd, Parodi, Meledak Tawa, Mengocok Perut",
+      "primarySku": "ID53FA",
+      "siblingSkus": [
+        "IDEBCB",
+        "IDC50B",
+        "IDA71C"
+      ],
+      "defaultInterleaving": [
+        "ID53FA",
+        "IDEBCB",
+        "IDC50B"
+      ],
+      "contextualTriggers": [
+        "komedi",
+        "lucu",
+        "receh",
+        "konyol",
+        "lelucon",
+        "tertawa",
+        "ngakak",
+        "absurd",
+        "aneh",
+        "parodi",
+        "fails",
+        "hiburan kosong",
+        "terkekeh"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ]
+    },
+    "CLUSTER_DOMESTIC_COMMERCE": {
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "description": "Pilar kebutuhan domestik, jualan live, resep praktis, kamar estetik, dan mukbang.",
+      "emotionalAura": "Praktis, Keseharian, Resep, Kamar Nyaman, Jualan Online, Bisnis Rumahan",
+      "primarySku": "ID32DF",
+      "siblingSkus": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "defaultInterleaving": [
+        "ID32DF",
+        "IDCE99",
+        "ID617C"
+      ],
+      "contextualTriggers": [
+        "jualan",
+        "shopee",
+        "affiliate",
+        "resep",
+        "masak",
+        "kamar",
+        "room tour",
+        "belanja",
+        "unboxing",
+        "makan",
+        "mukbang",
+        "dagang",
+        "closing",
+        "omset"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ]
+    },
+    "CLUSTER_INNOCENCE_PETS": {
+      "clusterId": "CLUSTER_INNOCENCE_PETS",
+      "clusterName": "Hewan Peliharaan Lucu & Dunia Anak",
+      "description": "Pilar kepolosan, anabul gemoy, bayi menggemaskan, dan mainan anak-anak.",
+      "emotionalAura": "Menggemaskan, Lucu, Hangat, Polos, Ceria, Ramah Anak, Cinta Hewan",
+      "primarySku": "IDC20C",
+      "siblingSkus": [
+        "IDEAD7",
+        "ID5FF3",
+        "IDEF4B"
+      ],
+      "defaultInterleaving": [
+        "IDC20C",
+        "IDEAD7",
+        "ID5FF3"
+      ],
+      "contextualTriggers": [
+        "anabul",
+        "kucing",
+        "anjing",
+        "hewan",
+        "bayi",
+        "anak",
+        "mainan",
+        "lucu",
+        "gemoy",
+        "imut",
+        "peliharaan",
+        "kesetiaan anabul",
+        "balita"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ]
+    }
+  },
+  "totalBundles": 35,
+  "totalVideoClips": 31057,
+  "totalContentClipsCount": 30998,
+  "totalAudioClips": 2895,
+  "totalSizeBytes": 179799484827,
+  "totalSizeGB": 167.45,
+  "generatedAt": "2026-10-02T13:51:27.680Z",
+  "bundles": [
+    {
+      "sku": "ID1646",
+      "brandCode": "NeonFuture",
+      "title": "Mentahan Vidkon Visual Cyberpunk",
+      "folderName": "ID1646 - NeonFuture - Mentahan Vidkon Visual Cyberpunk",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID1646 - NeonFuture - Mentahan Vidkon Visual Cyberpunk",
+      "clusterId": "CLUSTER_TECH_FUTURE",
+      "clusterName": "Teknologi, AI, Sains & Masa Depan Cyberpunk",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDE5EF",
+        "ID3199"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_NOSTALGIA_HISTORY"
+      ],
+      "category": "Futuristik & Teknologi",
+      "mood": "Cyberpunk, Neon, Sci-Fi, Cepat, Visual Hipnotis",
+      "emotionalAura": "Cyberpunk, Neon, Sci-Fi, Cepat, Visual Hipnotis",
+      "tags": [
+        "cyberpunk",
+        "neon",
+        "future",
+        "robot",
+        "teknologi",
+        "night city",
+        "glow",
+        "ai",
+        "digital",
+        "sains"
+      ],
+      "wordTriggers": [
+        "cyberpunk",
+        "neon",
+        "future",
+        "robot",
+        "teknologi",
+        "night city",
+        "glow",
+        "ai",
+        "sains",
+        "digital",
+        "canggih",
+        "sistem",
+        "pemrograman",
+        "era digital"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 236,
+      "totalContentClips": 234,
+      "totalAudios": 0,
+      "totalSizeBytes": 874984370,
+      "totalSizeMB": 834.45,
+      "previewTrailers": [
+        "0000. NeonFuture - Preview Trailer 1.mp4",
+        "0000. NeonFuture - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. NeonFuture - Visual Cyberpunk.mp4",
+        "0002. NeonFuture - Visual Cyberpunk.mp4",
+        "0003. NeonFuture - Visual Cyberpunk.mp4",
+        "0004. NeonFuture - Visual Cyberpunk.mp4",
+        "0005. NeonFuture - Visual Cyberpunk.mp4",
+        "0006. NeonFuture - Visual Cyberpunk.mp4",
+        "0007. NeonFuture - Visual Cyberpunk.mp4",
+        "0008. NeonFuture - Visual Cyberpunk.mp4"
+      ],
+      "activeCleanClips": 234,
+      "inactiveClips": 2,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID1AF4",
+      "brandCode": "HookMagnet",
+      "title": "Mentahan Vidkon Hook 3 Detik",
+      "folderName": "ID1AF4 - HookMagnet - Mentahan Vidkon Hook 3 Detik",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID1AF4 - HookMagnet - Mentahan Vidkon Hook 3 Detik",
+      "clusterId": "CLUSTER_PUBLIC_CHARM",
+      "clusterName": "Daya Tarik Publik, Persona & Hook Sorotan",
+      "clusterRole": "SPECIALIST_TRIGGER",
+      "kinshipSiblings": [
+        "ID1AF4",
+        "IDA71C",
+        "ID617C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Hook & Retensi",
+      "mood": "Kejutan, Penasaran, Cepat, Scroll-Stopper Detik Pertama",
+      "emotionalAura": "Kejutan, Penasaran, Cepat, Scroll-Stopper Detik Pertama",
+      "tags": [
+        "hook",
+        "attention",
+        "opening",
+        "3 detik",
+        "viral",
+        "intro",
+        "magnet",
+        "scroll stopper"
+      ],
+      "wordTriggers": [
+        "hook",
+        "attention",
+        "opening",
+        "3 detik",
+        "viral",
+        "intro",
+        "magnet",
+        "scroll stopper",
+        "tonton ini",
+        "jangan skip",
+        "perhatian"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 253,
+      "totalContentClips": 251,
+      "totalAudios": 0,
+      "totalSizeBytes": 761759058,
+      "totalSizeMB": 726.47,
+      "previewTrailers": [
+        "0000. HookMagnet - Preview Trailer 1.mp4",
+        "0000. HookMagnet - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. HookMagnet - Hook 3 Detik.mp4",
+        "0002. HookMagnet - Hook 3 Detik.mp4",
+        "0003. HookMagnet - Hook 3 Detik.mp4",
+        "0004. HookMagnet - Hook 3 Detik.mp4",
+        "0005. HookMagnet - Hook 3 Detik.mp4",
+        "0006. HookMagnet - Hook 3 Detik.mp4",
+        "0007. HookMagnet - Hook 3 Detik.mp4",
+        "0008. HookMagnet - Hook 3 Detik.mp4"
+      ],
+      "activeCleanClips": 250,
+      "inactiveClips": 3,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID3199",
+      "brandCode": "WallMotion",
+      "title": "Mentahan Vidkon Visual 4K Loop",
+      "folderName": "ID3199 - WallMotion - Mentahan Vidkon Visual 4K Loop",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID3199 - WallMotion - Mentahan Vidkon Visual 4K Loop",
+      "clusterId": "CLUSTER_TECH_FUTURE",
+      "clusterName": "Teknologi, AI, Sains & Masa Depan Cyberpunk",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDE5EF",
+        "ID3199"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_NOSTALGIA_HISTORY"
+      ],
+      "category": "Visual Loop & Motion",
+      "mood": "Estetik, Hipnotis, Loop 4K, Halus, Visual Latar",
+      "emotionalAura": "Estetik, Hipnotis, Loop 4K, Halus, Visual Latar",
+      "tags": [
+        "loop",
+        "background",
+        "wallpaper",
+        "4k",
+        "abstract",
+        "motion",
+        "visual",
+        "ambient"
+      ],
+      "wordTriggers": [
+        "loop",
+        "background",
+        "wallpaper",
+        "4k",
+        "abstract",
+        "motion",
+        "visual",
+        "ambient",
+        "latar belakang",
+        "animasi"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1029,
+      "totalContentClips": 1027,
+      "totalAudios": 0,
+      "totalSizeBytes": 2638329831,
+      "totalSizeMB": 2516.11,
+      "previewTrailers": [
+        "0000. WallMotion - Preview Trailer 1.mp4",
+        "0000. WallMotion - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. WallMotion - Visual 4K Loop.mp4",
+        "0002. WallMotion - Visual 4K Loop.mp4",
+        "0003. WallMotion - Visual 4K Loop.mp4",
+        "0004. WallMotion - Visual 4K Loop.mp4",
+        "0005. WallMotion - Visual 4K Loop.mp4",
+        "0006. WallMotion - Visual 4K Loop.mp4",
+        "0007. WallMotion - Visual 4K Loop.mp4",
+        "0008. WallMotion - Visual 4K Loop.mp4"
+      ],
+      "activeCleanClips": 1027,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID32DF",
+      "brandCode": "LiveHustle",
+      "title": "Mentahan Vidkon Live Selling Barbar",
+      "folderName": "ID32DF - LiveHustle - Mentahan Vidkon Live Selling Barbar",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID32DF - LiveHustle - Mentahan Vidkon Live Selling Barbar",
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Bisnis & Jualan",
+      "mood": "Agresif, Ramai, Cepat, Live Streaming, Hustle Jualan",
+      "emotionalAura": "Agresif, Ramai, Cepat, Live Streaming, Hustle Jualan",
+      "tags": [
+        "jualan",
+        "live selling",
+        "affiliate",
+        "promo",
+        "pasar",
+        "hustle",
+        "dagang",
+        "closing"
+      ],
+      "wordTriggers": [
+        "jualan",
+        "live selling",
+        "affiliate",
+        "promo",
+        "pasar",
+        "hustle",
+        "dagang",
+        "closing",
+        "omset",
+        "laris"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 418,
+      "totalContentClips": 416,
+      "totalAudios": 0,
+      "totalSizeBytes": 1136433425,
+      "totalSizeMB": 1083.79,
+      "previewTrailers": [
+        "0000. LiveHustle - Preview Trailer 1.mp4",
+        "0000. LiveHustle - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. LiveHustle - Live Selling Barbar.mp4",
+        "0002. LiveHustle - Live Selling Barbar.mp4",
+        "0003. LiveHustle - Live Selling Barbar.mp4",
+        "0004. LiveHustle - Live Selling Barbar.mp4",
+        "0005. LiveHustle - Live Selling Barbar.mp4",
+        "0006. LiveHustle - Live Selling Barbar.mp4",
+        "0007. LiveHustle - Live Selling Barbar.mp4",
+        "0008. LiveHustle - Live Selling Barbar.mp4"
+      ],
+      "activeCleanClips": 416,
+      "inactiveClips": 2,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID380D",
+      "brandCode": "HookStrike",
+      "title": "Mentahan Vidkon Tarikan Monster Mancing",
+      "folderName": "ID380D - HookStrike - Mentahan Vidkon Tarikan Monster Mancing",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID380D - HookStrike - Mentahan Vidkon Tarikan Monster Mancing",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "SPECIALIST_TRIGGER",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Hobi & Aksi Ekstrem",
+      "mood": "Tegang, Aksi, Alam Liar, Monster, Adrenalin",
+      "emotionalAura": "Tegang, Aksi, Alam Liar, Monster, Adrenalin",
+      "tags": [
+        "mancing",
+        "strike",
+        "ikan",
+        "sungai",
+        "laut",
+        "monster",
+        "alam liar",
+        "adrenalin"
+      ],
+      "wordTriggers": [
+        "mancing",
+        "strike",
+        "ikan",
+        "sungai",
+        "laut",
+        "monster",
+        "alam liar",
+        "adrenalin",
+        "tarikan",
+        "hewan liar"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 891,
+      "totalContentClips": 890,
+      "totalAudios": 0,
+      "totalSizeBytes": 5517850723,
+      "totalSizeMB": 5262.23,
+      "previewTrailers": [
+        "0000. HookStrike - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. HookStrike - Tarikan Monster Mancing.mp4",
+        "0002. HookStrike - Tarikan Monster Mancing.mp4",
+        "0003. HookStrike - Tarikan Monster Mancing.mp4",
+        "0004. HookStrike - Tarikan Monster Mancing.mp4",
+        "0005. HookStrike - Tarikan Monster Mancing.mp4",
+        "0006. HookStrike - Tarikan Monster Mancing.mp4",
+        "0007. HookStrike - Tarikan Monster Mancing.mp4",
+        "0008. HookStrike - Tarikan Monster Mancing.mp4"
+      ],
+      "activeCleanClips": 890,
+      "inactiveClips": 1,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID3C1F",
+      "brandCode": "ToolCraft",
+      "title": "Mentahan Vidkon Pertukangan Kreatif",
+      "folderName": "ID3C1F - ToolCraft - Mentahan Vidkon Pertukangan Kreatif",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID3C1F - ToolCraft - Mentahan Vidkon Pertukangan Kreatif",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Kerajinan & Keterampilan",
+      "mood": "Presisi, Kayu, Produktif, Solutif, Pekerja Keras",
+      "emotionalAura": "Presisi, Kayu, Produktif, Solutif, Pekerja Keras",
+      "tags": [
+        "tukang",
+        "kayu",
+        "perkakas",
+        "bengkel",
+        "crafting",
+        "diy",
+        "kreatif",
+        "keterampilan",
+        "pertukangan"
+      ],
+      "wordTriggers": [
+        "tukang",
+        "kayu",
+        "perkakas",
+        "bengkel",
+        "crafting",
+        "diy",
+        "kreatif",
+        "keterampilan",
+        "pertukangan",
+        "memotong",
+        "memahat",
+        "alat kerja"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 575,
+      "totalContentClips": 573,
+      "totalAudios": 0,
+      "totalSizeBytes": 1532246318,
+      "totalSizeMB": 1461.26,
+      "previewTrailers": [
+        "0000. ToolCraft - Preview Trailer 1.mp4",
+        "0000. ToolCraft - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. ToolCraft - Pertukangan Kreatif.mp4",
+        "0002. ToolCraft - Pertukangan Kreatif.mp4",
+        "0003. ToolCraft - Pertukangan Kreatif.mp4",
+        "0004. ToolCraft - Pertukangan Kreatif.mp4",
+        "0005. ToolCraft - Pertukangan Kreatif.mp4",
+        "0006. ToolCraft - Pertukangan Kreatif.mp4",
+        "0007. ToolCraft - Pertukangan Kreatif.mp4",
+        "0008. ToolCraft - Pertukangan Kreatif.mp4"
+      ],
+      "activeCleanClips": 573,
+      "inactiveClips": 2,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID4834",
+      "brandCode": "DeepBlue",
+      "title": "Mentahan Vidkon Samudra Misterius",
+      "folderName": "ID4834 - DeepBlue - Mentahan Vidkon Samudra Misterius",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID4834 - DeepBlue - Mentahan Vidkon Samudra Misterius",
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Alam & Samudra Misterius",
+      "mood": "Gelap, Dalam, Misterius, Luas, Ketakutan Batin",
+      "emotionalAura": "Gelap, Dalam, Misterius, Luas, Ketakutan Batin",
+      "tags": [
+        "laut",
+        "samudra",
+        "deep blue",
+        "underwater",
+        "hiu",
+        "paus",
+        "misteri",
+        "kedalaman",
+        "gelap"
+      ],
+      "wordTriggers": [
+        "laut",
+        "samudra",
+        "deep blue",
+        "underwater",
+        "hiu",
+        "paus",
+        "misteri",
+        "kedalaman",
+        "gelap",
+        "dasar laut",
+        "tenggelam"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 250,
+      "totalContentClips": 248,
+      "totalAudios": 0,
+      "totalSizeBytes": 875633217,
+      "totalSizeMB": 835.07,
+      "previewTrailers": [
+        "0000. DeepBlue - Preview Trailer 1.mp4",
+        "0000. DeepBlue - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. DeepBlue - Samudra Misterius.mp4",
+        "0002. DeepBlue - Samudra Misterius.mp4",
+        "0003. DeepBlue - Samudra Misterius.mp4",
+        "0004. DeepBlue - Samudra Misterius.mp4",
+        "0005. DeepBlue - Samudra Misterius.mp4",
+        "0006. DeepBlue - Samudra Misterius.mp4",
+        "0007. DeepBlue - Samudra Misterius.mp4",
+        "0008. DeepBlue - Samudra Misterius.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 250,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "ID53FA",
+      "brandCode": "LaughRiot",
+      "title": "Mentahan Vidkon Asupan Receh",
+      "folderName": "ID53FA - LaughRiot - Mentahan Vidkon Asupan Receh",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID53FA - LaughRiot - Mentahan Vidkon Asupan Receh",
+      "clusterId": "CLUSTER_HUMOR_SATIRE",
+      "clusterName": "Komedi, Satir & Absurditas Kehidupan",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDEBCB",
+        "IDC50B",
+        "IDA71C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Komedi & Asupan Receh",
+      "mood": "Lucu, Santai, Receh, Absurd, Meledak Tawa",
+      "emotionalAura": "Lucu, Santai, Receh, Absurd, Meledak Tawa",
+      "tags": [
+        "receh",
+        "lucu",
+        "komedi",
+        "ngakak",
+        "fails",
+        "asupan receh",
+        "hiburan",
+        "humor"
+      ],
+      "wordTriggers": [
+        "receh",
+        "lucu",
+        "komedi",
+        "ngakak",
+        "fails",
+        "asupan receh",
+        "hiburan",
+        "humor",
+        "konyol",
+        "lelucon"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 658,
+      "totalContentClips": 656,
+      "totalAudios": 0,
+      "totalSizeBytes": 1422691896,
+      "totalSizeMB": 1356.78,
+      "previewTrailers": [
+        "0000. LaughRiot - Preview Trailer 1.mp4",
+        "0000. LaughRiot - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. LaughRiot - Asupan Receh.mp4",
+        "0002. LaughRiot - Asupan Receh.mp4",
+        "0003. LaughRiot - Asupan Receh.mp4",
+        "0004. LaughRiot - Asupan Receh.mp4",
+        "0005. LaughRiot - Asupan Receh.mp4",
+        "0006. LaughRiot - Asupan Receh.mp4",
+        "0007. LaughRiot - Asupan Receh.mp4",
+        "0008. LaughRiot - Asupan Receh.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 658,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "ID557A",
+      "brandCode": "DesiCraft",
+      "title": "Mentahan Vidkon Skill Dewa Vrindavan",
+      "folderName": "ID557A - DesiCraft - Mentahan Vidkon Skill Dewa Vrindavan",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID557A - DesiCraft - Mentahan Vidkon Skill Dewa Vrindavan",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Kerajinan Tradisional & Lapangan",
+      "mood": "Kerja Keras, Terampil, Keras, Nyata, Otodidak",
+      "emotionalAura": "Kerja Keras, Terampil, Keras, Nyata, Otodidak",
+      "tags": [
+        "vrindavan",
+        "jalanan",
+        "street skill",
+        "bengkel kaki lima",
+        "kerja keras",
+        "manual",
+        "otodidak"
+      ],
+      "wordTriggers": [
+        "vrindavan",
+        "jalanan",
+        "street skill",
+        "bengkel kaki lima",
+        "kerja keras",
+        "manual",
+        "otodidak",
+        "keterampilan jalanan",
+        "tangan kosong"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 646,
+      "totalContentClips": 644,
+      "totalAudios": 0,
+      "totalSizeBytes": 18299032400,
+      "totalSizeMB": 17451.32,
+      "previewTrailers": [
+        "0000. DesiCraft - Preview Trailer 1.mp4",
+        "0000. DesiCraft - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0002. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0003. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0004. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0005. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0006. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0007. DesiCraft - Skill Dewa Vrindavan.mp4",
+        "0008. DesiCraft - Skill Dewa Vrindavan.mp4"
+      ],
+      "activeCleanClips": 644,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID5FF3",
+      "brandCode": "KiddieAI",
+      "title": "Mentahan Vidkon Bayi AI Gemoy",
+      "folderName": "ID5FF3 - KiddieAI - Mentahan Vidkon Bayi AI Gemoy",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID5FF3 - KiddieAI - Mentahan Vidkon Bayi AI Gemoy",
+      "clusterId": "CLUSTER_INNOCENCE_PETS",
+      "clusterName": "Hewan Peliharaan Lucu & Dunia Anak",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDEAD7",
+        "ID5FF3",
+        "IDEF4B"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Keluarga & Bayi AI",
+      "mood": "Lucu, Menggemaskan, Manis, Ceria, Polos",
+      "emotionalAura": "Lucu, Menggemaskan, Manis, Ceria, Polos",
+      "tags": [
+        "bayi",
+        "baby",
+        "gemoy",
+        "ai bayi",
+        "anak",
+        "lucu",
+        "keluarga",
+        "imut"
+      ],
+      "wordTriggers": [
+        "bayi",
+        "baby",
+        "gemoy",
+        "ai bayi",
+        "anak",
+        "lucu",
+        "keluarga",
+        "imut",
+        "balita",
+        "menggemaskan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 825,
+      "totalContentClips": 823,
+      "totalAudios": 0,
+      "totalSizeBytes": 1383426631,
+      "totalSizeMB": 1319.34,
+      "previewTrailers": [
+        "0000. KiddieAI - Preview Trailer 1.mp4",
+        "0000. KiddieAI - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. KiddieAI - Bayi AI Gemoy.mp4",
+        "0002. KiddieAI - Bayi AI Gemoy.mp4",
+        "0003. KiddieAI - Bayi AI Gemoy.mp4",
+        "0004. KiddieAI - Bayi AI Gemoy.mp4",
+        "0005. KiddieAI - Bayi AI Gemoy.mp4",
+        "0006. KiddieAI - Bayi AI Gemoy.mp4",
+        "0007. KiddieAI - Bayi AI Gemoy.mp4",
+        "0008. KiddieAI - Bayi AI Gemoy.mp4"
+      ],
+      "activeCleanClips": 823,
+      "inactiveClips": 2,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID617C",
+      "brandCode": "AffilTrend",
+      "title": "Mentahan Vidkon Racun Shopee Affiliate",
+      "folderName": "ID617C - AffilTrend - Mentahan Vidkon Racun Shopee Affiliate",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID617C - AffilTrend - Mentahan Vidkon Racun Shopee Affiliate",
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Produk & E-Commerce",
+      "mood": "Konsumtif, Menarik, Unboxing, Review Belanja",
+      "emotionalAura": "Konsumtif, Menarik, Unboxing, Review Belanja",
+      "tags": [
+        "shopee",
+        "affiliate",
+        "racun shopee",
+        "produk",
+        "unboxing",
+        "review",
+        "gadget"
+      ],
+      "wordTriggers": [
+        "shopee",
+        "affiliate",
+        "racun shopee",
+        "produk",
+        "unboxing",
+        "review",
+        "gadget",
+        "peralatan rumah",
+        "rekomendasi belanja"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 2818,
+      "totalContentClips": 2817,
+      "totalAudios": 0,
+      "totalSizeBytes": 10736110040,
+      "totalSizeMB": 10238.75,
+      "previewTrailers": [
+        "0000. AffilTrend - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0002. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0003. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0004. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0005. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0006. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0007. AffilTrend - Racun Shopee Affiliate.mp4",
+        "0008. AffilTrend - Racun Shopee Affiliate.mp4"
+      ],
+      "activeCleanClips": 2817,
+      "inactiveClips": 1,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID7667",
+      "brandCode": "AuraBoost",
+      "title": "Mentahan Vidkon Self Healing",
+      "folderName": "ID7667 - AuraBoost - Mentahan Vidkon Self Healing",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID7667 - AuraBoost - Mentahan Vidkon Self Healing",
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Pengembangan Diri & Healing",
+      "mood": "Tenang, Reflektif, Damai, Menyembuhkan, Sejuk",
+      "emotionalAura": "Tenang, Reflektif, Damai, Menyembuhkan, Sejuk",
+      "tags": [
+        "healing",
+        "self healing",
+        "damai",
+        "hujan",
+        "pemandangan",
+        "ketenangan",
+        "meditasi",
+        "jiwa"
+      ],
+      "wordTriggers": [
+        "healing",
+        "self healing",
+        "damai",
+        "pemandangan",
+        "ketenangan",
+        "meditasi",
+        "jiwa",
+        "istirahat",
+        "pulih",
+        "nafas"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 386,
+      "totalContentClips": 384,
+      "totalAudios": 0,
+      "totalSizeBytes": 3408296716,
+      "totalSizeMB": 3250.41,
+      "previewTrailers": [
+        "0000. AuraBoost - Preview Trailer 1.mp4",
+        "0000. AuraBoost - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. AuraBoost - Self Healing.mp4",
+        "0002. AuraBoost - Self Healing.mp4",
+        "0003. AuraBoost - Self Healing.mp4",
+        "0004. AuraBoost - Self Healing.mp4",
+        "0005. AuraBoost - Self Healing.mp4",
+        "0006. AuraBoost - Self Healing.mp4",
+        "0007. AuraBoost - Self Healing.mp4",
+        "0008. AuraBoost - Self Healing.mp4"
+      ],
+      "activeCleanClips": 384,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID7792",
+      "brandCode": "AnimeGrief",
+      "title": "Mentahan Vidkon Anime Galau",
+      "folderName": "ID7792 - AnimeGrief - Mentahan Vidkon Anime Galau",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID7792 - AnimeGrief - Mentahan Vidkon Anime Galau",
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Anime & Pop Culture Melankolis",
+      "mood": "Melankolis, Galau, Nostalgia, Hujan, Sendu, Emosional",
+      "emotionalAura": "Melankolis, Galau, Nostalgia, Hujan, Sendu, Emosional",
+      "tags": [
+        "anime",
+        "galau",
+        "sad",
+        "nostalgia",
+        "hujan anime",
+        "aesthetic anime",
+        "lofi anime"
+      ],
+      "wordTriggers": [
+        "anime",
+        "galau",
+        "sad",
+        "nostalgia",
+        "hujan anime",
+        "aesthetic anime",
+        "lofi anime",
+        "hampa",
+        "kecewa",
+        "kesepian",
+        "air mata",
+        "hujan",
+        "kesunyian",
+        "meragukan diri"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 428,
+      "totalContentClips": 426,
+      "totalAudios": 0,
+      "totalSizeBytes": 1482927626,
+      "totalSizeMB": 1414.23,
+      "previewTrailers": [
+        "0000. AnimeGrief - Preview Trailer 1.mp4",
+        "0000. AnimeGrief - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. AnimeGrief - Anime Galau.mp4",
+        "0002. AnimeGrief - Anime Galau.mp4",
+        "0003. AnimeGrief - Anime Galau.mp4",
+        "0004. AnimeGrief - Anime Galau.mp4",
+        "0005. AnimeGrief - Anime Galau.mp4",
+        "0006. AnimeGrief - Anime Galau.mp4",
+        "0007. AnimeGrief - Anime Galau.mp4",
+        "0008. AnimeGrief - Anime Galau.mp4"
+      ],
+      "activeCleanClips": 426,
+      "inactiveClips": 2,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID8125",
+      "brandCode": "ChefByte",
+      "title": "Mentahan Vidkon Resep Anak Kos",
+      "folderName": "ID8125 - ChefByte - Mentahan Vidkon Resep Anak Kos",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID8125 - ChefByte - Mentahan Vidkon Resep Anak Kos",
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Kuliner & Resep Rumahan",
+      "mood": "Lapar, Praktis, Sederhana, Rumahan, Dapur Kos",
+      "emotionalAura": "Lapar, Praktis, Sederhana, Rumahan, Dapur Kos",
+      "tags": [
+        "resep",
+        "anak kos",
+        "masak",
+        "kuliner",
+        "makanan",
+        "dapur",
+        "mie",
+        "gorengan"
+      ],
+      "wordTriggers": [
+        "resep",
+        "anak kos",
+        "masak",
+        "kuliner",
+        "makanan",
+        "dapur",
+        "mie",
+        "gorengan",
+        "street food",
+        "makan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 327,
+      "totalContentClips": 326,
+      "totalAudios": 0,
+      "totalSizeBytes": 1469109399,
+      "totalSizeMB": 1401.05,
+      "previewTrailers": [
+        "0000. ChefByte - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. ChefByte - Resep Anak Kos.mp4",
+        "0002. ChefByte - Resep Anak Kos.mp4",
+        "0003. ChefByte - Resep Anak Kos.mp4",
+        "0004. ChefByte - Resep Anak Kos.mp4",
+        "0005. ChefByte - Resep Anak Kos.mp4",
+        "0006. ChefByte - Resep Anak Kos.mp4",
+        "0007. ChefByte - Resep Anak Kos.mp4",
+        "0008. ChefByte - Resep Anak Kos.mp4"
+      ],
+      "activeCleanClips": 326,
+      "inactiveClips": 1,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID8F64",
+      "brandCode": "SceneVault",
+      "title": "Mentahan Vidkon Scene Film Epik",
+      "folderName": "ID8F64 - SceneVault - Mentahan Vidkon Scene Film Epik",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID8F64 - SceneVault - Mentahan Vidkon Scene Film Epik",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Sinematik & Film Epik",
+      "mood": "Epik, Dramatis, Megah, Berbobot, Sinematik Tinggi Hollywood",
+      "emotionalAura": "Epik, Dramatis, Megah, Berbobot, Sinematik Tinggi Hollywood",
+      "tags": [
+        "film",
+        "scene epik",
+        "movie",
+        "hollywood",
+        "dramatis",
+        "perang",
+        "aktor",
+        "aksi",
+        "sinematik"
+      ],
+      "wordTriggers": [
+        "film",
+        "scene epik",
+        "movie",
+        "hollywood",
+        "dramatis",
+        "perang",
+        "aktor",
+        "aksi",
+        "sinematik",
+        "pertarungan",
+        "skala besar",
+        "maraton panjang",
+        "inspirasi generasi"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1001,
+      "totalContentClips": 1000,
+      "totalAudios": 0,
+      "totalSizeBytes": 4066645937,
+      "totalSizeMB": 3878.26,
+      "previewTrailers": [
+        "0000. SceneVault - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. SceneVault - Scene Film Epik.mp4",
+        "0002. SceneVault - Scene Film Epik.mp4",
+        "0003. SceneVault - Scene Film Epik.mp4",
+        "0004. SceneVault - Scene Film Epik.mp4",
+        "0005. SceneVault - Scene Film Epik.mp4",
+        "0006. SceneVault - Scene Film Epik.mp4",
+        "0007. SceneVault - Scene Film Epik.mp4",
+        "0008. SceneVault - Scene Film Epik.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 1001,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "ID943F",
+      "brandCode": "MindForge",
+      "title": "Mentahan Vidkon Mindset Sultan",
+      "folderName": "ID943F - MindForge - Mentahan Vidkon Mindset Sultan",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID943F - MindForge - Mentahan Vidkon Mindset Sultan",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Motivasi & Keuangan Sultan",
+      "mood": "Sukses, Ambisi, Bisnis, Sultan, Keuangan Mandiri",
+      "emotionalAura": "Sukses, Ambisi, Bisnis, Sultan, Keuangan Mandiri",
+      "tags": [
+        "mindset",
+        "sultan",
+        "kaya",
+        "bisnis",
+        "investasi",
+        "uang",
+        "disiplin",
+        "sukses",
+        "kemiskinan",
+        "keluar kemiskinan"
+      ],
+      "wordTriggers": [
+        "mindset",
+        "sultan",
+        "kaya",
+        "bisnis",
+        "investasi",
+        "uang",
+        "disiplin",
+        "sukses",
+        "kemiskinan",
+        "keluar kemiskinan",
+        "finansial",
+        "mandiri secara finansial"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 2,
+      "totalContentClips": 0,
+      "totalAudios": 2895,
+      "totalSizeBytes": 6255556966,
+      "totalSizeMB": 5965.76,
+      "previewTrailers": [
+        "0000. MindForge - Preview Trailer 1.mp4",
+        "0000. MindForge - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [],
+      "activeCleanClips": 0,
+      "inactiveClips": 2,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "ID9919",
+      "brandCode": "SigmaReel",
+      "title": "Mentahan Vidkon Quotes Shelby",
+      "folderName": "ID9919 - SigmaReel - Mentahan Vidkon Quotes Shelby",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID9919 - SigmaReel - Mentahan Vidkon Quotes Shelby",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Motivasi & Karakter Pria Alpha",
+      "mood": "Tegas, Dingin, Stoik, Kharismatik, Pantang Menyerah",
+      "emotionalAura": "Tegas, Dingin, Stoik, Kharismatik, Pantang Menyerah",
+      "tags": [
+        "shelby",
+        "peaky blinders",
+        "stoic",
+        "sigma",
+        "alpha",
+        "kharisma",
+        "disiplin",
+        "fokus",
+        "pantang menyerah",
+        "mental baja"
+      ],
+      "wordTriggers": [
+        "shelby",
+        "peaky blinders",
+        "stoic",
+        "sigma",
+        "alpha",
+        "kharisma",
+        "disiplin",
+        "fokus",
+        "pantang menyerah",
+        "mental baja",
+        "tahan banting",
+        "prinsip",
+        "pria sejati",
+        "keluarga miskin",
+        "mati miskin",
+        "mentalitas korban",
+        "garis keturunan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1033,
+      "totalContentClips": 1031,
+      "totalAudios": 0,
+      "totalSizeBytes": 2513693190,
+      "totalSizeMB": 2397.24,
+      "previewTrailers": [
+        "0000. SigmaReel - Preview Trailer 1.mp4",
+        "0000. SigmaReel - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. SigmaReel - Quotes Shelby.mp4",
+        "0002. SigmaReel - Quotes Shelby.mp4",
+        "0003. SigmaReel - Quotes Shelby.mp4",
+        "0004. SigmaReel - Quotes Shelby.mp4",
+        "0005. SigmaReel - Quotes Shelby.mp4",
+        "0006. SigmaReel - Quotes Shelby.mp4",
+        "0007. SigmaReel - Quotes Shelby.mp4",
+        "0008. SigmaReel - Quotes Shelby.mp4"
+      ],
+      "activeCleanClips": 1031,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID9C29",
+      "brandCode": "ReviveCraft",
+      "title": "Mentahan Vidkon Barang Karat",
+      "folderName": "ID9C29 - ReviveCraft - Mentahan Vidkon Barang Karat",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\ID9C29 - ReviveCraft - Mentahan Vidkon Barang Karat",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Restorasi & Pemulihan",
+      "mood": "Memuaskan, Transformasi, Sabar, Presisi, Mengikis Karat",
+      "emotionalAura": "Memuaskan, Transformasi, Sabar, Presisi, Mengikis Karat",
+      "tags": [
+        "restorasi",
+        "barang karat",
+        "pembersihan",
+        "revive",
+        "besi",
+        "mesin tua",
+        "transformasi",
+        "mengkilap"
+      ],
+      "wordTriggers": [
+        "restorasi",
+        "barang karat",
+        "pembersihan",
+        "revive",
+        "besi",
+        "mesin tua",
+        "transformasi",
+        "mengkilap",
+        "mengikis karat",
+        "memperbaiki",
+        "karat",
+        "memulihkan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 161,
+      "totalContentClips": 159,
+      "totalAudios": 0,
+      "totalSizeBytes": 7565467242,
+      "totalSizeMB": 7214.99,
+      "previewTrailers": [
+        "0000. ReviveCraft - Preview Trailer 1.mp4",
+        "0000. ReviveCraft - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. ReviveCraft - Barang Karat.mp4",
+        "0002. ReviveCraft - Barang Karat.mp4",
+        "0003. ReviveCraft - Barang Karat.mp4",
+        "0004. ReviveCraft - Barang Karat.mp4",
+        "0005. ReviveCraft - Barang Karat.mp4",
+        "0006. ReviveCraft - Barang Karat.mp4",
+        "0007. ReviveCraft - Barang Karat.mp4",
+        "0008. ReviveCraft - Barang Karat.mp4"
+      ],
+      "activeCleanClips": 159,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDA71C",
+      "brandCode": "PrankChaos",
+      "title": "Mentahan Vidkon Social Experiment Prank",
+      "folderName": "IDA71C - PrankChaos - Mentahan Vidkon Social Experiment Prank",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDA71C - PrankChaos - Mentahan Vidkon Social Experiment Prank",
+      "clusterId": "CLUSTER_PUBLIC_CHARM",
+      "clusterName": "Daya Tarik Publik, Persona & Hook Sorotan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "ID1AF4",
+        "IDA71C",
+        "ID617C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Sosial & Eksperimen",
+      "mood": "Kaget, Canggung, Tegang, Lucu, Reaksi Publik",
+      "emotionalAura": "Kaget, Canggung, Tegang, Lucu, Reaksi Publik",
+      "tags": [
+        "prank",
+        "social experiment",
+        "jalanan",
+        "reaksi",
+        "orang asing",
+        "kamera tersembunyi"
+      ],
+      "wordTriggers": [
+        "prank",
+        "social experiment",
+        "jalanan",
+        "reaksi",
+        "orang asing",
+        "kamera tersembunyi",
+        "eksperimen sosial",
+        "interaksi publik"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 633,
+      "totalContentClips": 632,
+      "totalAudios": 0,
+      "totalSizeBytes": 3122622427,
+      "totalSizeMB": 2977.96,
+      "previewTrailers": [
+        "0000. PrankChaos - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. PrankChaos - Social Experiment Prank.mp4",
+        "0002. PrankChaos - Social Experiment Prank.mp4",
+        "0003. PrankChaos - Social Experiment Prank.mp4",
+        "0004. PrankChaos - Social Experiment Prank.mp4",
+        "0005. PrankChaos - Social Experiment Prank.mp4",
+        "0006. PrankChaos - Social Experiment Prank.mp4",
+        "0007. PrankChaos - Social Experiment Prank.mp4",
+        "0008. PrankChaos - Social Experiment Prank.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 633,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "IDB7CA",
+      "brandCode": "RogueMind",
+      "title": "Mentahan Vidkon Joker Sadboy",
+      "folderName": "IDB7CA - RogueMind - Mentahan Vidkon Joker Sadboy",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDB7CA - RogueMind - Mentahan Vidkon Joker Sadboy",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Karakter & Realitas Pahit Sosial",
+      "mood": "Sinis, Realistis, Luka Batin, Pahit, Ketidakadilan Sosial",
+      "emotionalAura": "Sinis, Realistis, Luka Batin, Pahit, Ketidakadilan Sosial",
+      "tags": [
+        "joker",
+        "sadboy",
+        "patah hati",
+        "realita pahit",
+        "masyarakat",
+        "kecewa",
+        "kegelapan",
+        "sakit hati"
+      ],
+      "wordTriggers": [
+        "joker",
+        "sadboy",
+        "patah hati",
+        "realita pahit",
+        "masyarakat",
+        "kecewa",
+        "kegelapan",
+        "sakit hati",
+        "dikhianati",
+        "ketidakadilan",
+        "senyum palsu",
+        "sistem yang membelenggu",
+        "hiburan kosong",
+        "teman mengeluh"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 857,
+      "totalContentClips": 855,
+      "totalAudios": 0,
+      "totalSizeBytes": 4539025296,
+      "totalSizeMB": 4328.75,
+      "previewTrailers": [
+        "0000. RogueMind - Preview Trailer 1.mp4",
+        "0000. RogueMind - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. RogueMind - Joker Sadboy.mp4",
+        "0002. RogueMind - Joker Sadboy.mp4",
+        "0003. RogueMind - Joker Sadboy.mp4",
+        "0004. RogueMind - Joker Sadboy.mp4",
+        "0005. RogueMind - Joker Sadboy.mp4",
+        "0006. RogueMind - Joker Sadboy.mp4",
+        "0007. RogueMind - Joker Sadboy.mp4",
+        "0008. RogueMind - Joker Sadboy.mp4"
+      ],
+      "activeCleanClips": 855,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDBABD",
+      "brandCode": "BiteRush",
+      "title": "Mentahan Vidkon Mukbang Brutal",
+      "folderName": "IDBABD - BiteRush - Mentahan Vidkon Mukbang Brutal",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDBABD - BiteRush - Mentahan Vidkon Mukbang Brutal",
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Kuliner & Mukbang",
+      "mood": "Nafsu Makan, Ekstrem, Pedas, Brutal, Porsi Besar",
+      "emotionalAura": "Nafsu Makan, Ekstrem, Pedas, Brutal, Porsi Besar",
+      "tags": [
+        "mukbang",
+        "makan besar",
+        "pedas",
+        "daging",
+        "seafood",
+        "makan brutal"
+      ],
+      "wordTriggers": [
+        "mukbang",
+        "makan besar",
+        "pedas",
+        "daging",
+        "seafood",
+        "makan brutal",
+        "kuliner ekstrem",
+        "lahap"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1211,
+      "totalContentClips": 1210,
+      "totalAudios": 0,
+      "totalSizeBytes": 6501652659,
+      "totalSizeMB": 6200.46,
+      "previewTrailers": [
+        "0000. BiteRush - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. BiteRush - Mukbang Brutal.mp4",
+        "0002. BiteRush - Mukbang Brutal.mp4",
+        "0003. BiteRush - Mukbang Brutal.mp4",
+        "0004. BiteRush - Mukbang Brutal.mp4",
+        "0005. BiteRush - Mukbang Brutal.mp4",
+        "0006. BiteRush - Mukbang Brutal.mp4",
+        "0007. BiteRush - Mukbang Brutal.mp4",
+        "0008. BiteRush - Mukbang Brutal.mp4"
+      ],
+      "activeCleanClips": 1210,
+      "inactiveClips": 1,
+      "curationTier": "TIER_2_VERIFIED",
+      "curationTierLabel": "Aktif Terverifikasi",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDC20C",
+      "brandCode": "PetViral",
+      "title": "Mentahan Vidkon Anabul Gemoy",
+      "folderName": "IDC20C - PetViral - Mentahan Vidkon Anabul Gemoy",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDC20C - PetViral - Mentahan Vidkon Anabul Gemoy",
+      "clusterId": "CLUSTER_INNOCENCE_PETS",
+      "clusterName": "Hewan Peliharaan Lucu & Dunia Anak",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDEAD7",
+        "ID5FF3",
+        "IDEF4B"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Hewan Peliharaan Gemoy",
+      "mood": "Lucu, Hangat, Menggemaskan, Ceria, Kucing Gemoy",
+      "emotionalAura": "Lucu, Hangat, Menggemaskan, Ceria, Kucing Gemoy",
+      "tags": [
+        "anabul",
+        "kucing",
+        "anjing",
+        "gemoy",
+        "hewan",
+        "peliharaan",
+        "imut",
+        "lucu"
+      ],
+      "wordTriggers": [
+        "anabul",
+        "kucing",
+        "anjing",
+        "gemoy",
+        "hewan",
+        "peliharaan",
+        "imut",
+        "lucu",
+        "kucing gemoy",
+        "manja"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1659,
+      "totalContentClips": 1658,
+      "totalAudios": 0,
+      "totalSizeBytes": 8141399691,
+      "totalSizeMB": 7764.24,
+      "previewTrailers": [
+        "0000. PetViral - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. PetViral - Anabul Gemoy.mp4",
+        "0002. PetViral - Anabul Gemoy.mp4",
+        "0003. PetViral - Anabul Gemoy.mp4",
+        "0004. PetViral - Anabul Gemoy.mp4",
+        "0005. PetViral - Anabul Gemoy.mp4",
+        "0006. PetViral - Anabul Gemoy.mp4",
+        "0007. PetViral - Anabul Gemoy.mp4",
+        "0008. PetViral - Anabul Gemoy.mp4"
+      ],
+      "activeCleanClips": 1647,
+      "inactiveClips": 12,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDC50B",
+      "brandCode": "MeowFrenzy",
+      "title": "Mentahan Vidkon Anabul Tantrum",
+      "folderName": "IDC50B - MeowFrenzy - Mentahan Vidkon Anabul Tantrum",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDC50B - MeowFrenzy - Mentahan Vidkon Anabul Tantrum",
+      "clusterId": "CLUSTER_HUMOR_SATIRE",
+      "clusterName": "Komedi, Satir & Absurditas Kehidupan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDEBCB",
+        "IDC50B",
+        "IDA71C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Hewan & Komedi Tantrum",
+      "mood": "Kekacauan, Ngamuk, Lucu, Tantrum, Kucing Barbar",
+      "emotionalAura": "Kekacauan, Ngamuk, Lucu, Tantrum, Kucing Barbar",
+      "tags": [
+        "kucing tantrum",
+        "anabul ngamuk",
+        "kucing barbar",
+        "cakar",
+        "kekacauan",
+        "kucing oren"
+      ],
+      "wordTriggers": [
+        "kucing tantrum",
+        "anabul ngamuk",
+        "kucing barbar",
+        "cakar",
+        "kekacauan",
+        "kucing oren",
+        "marah lucu"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 158,
+      "totalContentClips": 156,
+      "totalAudios": 0,
+      "totalSizeBytes": 1587341638,
+      "totalSizeMB": 1513.81,
+      "previewTrailers": [
+        "0000. MeowFrenzy - Preview Trailer 1.mp4",
+        "0000. MeowFrenzy - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. MeowFrenzy - Anabul Tantrum.mp4",
+        "0002. MeowFrenzy - Anabul Tantrum.mp4",
+        "0003. MeowFrenzy - Anabul Tantrum.mp4",
+        "0004. MeowFrenzy - Anabul Tantrum.mp4",
+        "0005. MeowFrenzy - Anabul Tantrum.mp4",
+        "0006. MeowFrenzy - Anabul Tantrum.mp4",
+        "0007. MeowFrenzy - Anabul Tantrum.mp4",
+        "0008. MeowFrenzy - Anabul Tantrum.mp4"
+      ],
+      "activeCleanClips": 156,
+      "inactiveClips": 2,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDCB24",
+      "brandCode": "QuranicFlow",
+      "title": "Mentahan Vidkon Murottal Dakwah",
+      "folderName": "IDCB24 - QuranicFlow - Mentahan Vidkon Murottal Dakwah",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDCB24 - QuranicFlow - Mentahan Vidkon Murottal Dakwah",
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "clusterRole": "SPECIALIST_TRIGGER",
+      "kinshipSiblings": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Religi & Spiritual Syahdu",
+      "mood": "Syahdu, Tenang, Khusyuk, Sejuk, Refleksi Ketuhanan",
+      "emotionalAura": "Syahdu, Tenang, Khusyuk, Sejuk, Refleksi Ketuhanan",
+      "tags": [
+        "murottal",
+        "quran",
+        "dakwah",
+        "masjid",
+        "hijrah",
+        "doa",
+        "islam",
+        "sejuk",
+        "syahdu"
+      ],
+      "wordTriggers": [
+        "murottal",
+        "quran",
+        "dakwah",
+        "masjid",
+        "hijrah",
+        "doa",
+        "islam",
+        "sejuk",
+        "syahdu",
+        "tuhan",
+        "ikhlas",
+        "ibadah",
+        "taubat"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 148,
+      "totalContentClips": 147,
+      "totalAudios": 0,
+      "totalSizeBytes": 190025174,
+      "totalSizeMB": 181.22,
+      "previewTrailers": [
+        "0000. QuranicFlow - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. QuranicFlow - Murottal Dakwah.mp4",
+        "0002. QuranicFlow - Murottal Dakwah.mp4",
+        "0003. QuranicFlow - Murottal Dakwah.mp4",
+        "0004. QuranicFlow - Murottal Dakwah.mp4",
+        "0005. QuranicFlow - Murottal Dakwah.mp4",
+        "0006. QuranicFlow - Murottal Dakwah.mp4",
+        "0007. QuranicFlow - Murottal Dakwah.mp4",
+        "0008. QuranicFlow - Murottal Dakwah.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 148,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "IDCE99",
+      "brandCode": "HomeAura",
+      "title": "Mentahan Vidkon Room Tour Minimalis",
+      "folderName": "IDCE99 - HomeAura - Mentahan Vidkon Room Tour Minimalis",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDCE99 - HomeAura - Mentahan Vidkon Room Tour Minimalis",
+      "clusterId": "CLUSTER_DOMESTIC_COMMERCE",
+      "clusterName": "Keseharian Rumah Tangga, Resep Kos & Jualan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDCE99",
+        "ID8125",
+        "ID617C",
+        "IDBABD"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Desain & Properti Minimalis",
+      "mood": "Estetik, Bersih, Modern, Minimalis, Ruang Nyaman",
+      "emotionalAura": "Estetik, Bersih, Modern, Minimalis, Ruang Nyaman",
+      "tags": [
+        "room tour",
+        "minimalis",
+        "kamar estetik",
+        "dekorasi",
+        "apartemen",
+        "interior",
+        "rumah impian"
+      ],
+      "wordTriggers": [
+        "room tour",
+        "minimalis",
+        "kamar estetik",
+        "dekorasi",
+        "apartemen",
+        "interior",
+        "rumah impian",
+        "tata ruang"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1454,
+      "totalContentClips": 1453,
+      "totalAudios": 0,
+      "totalSizeBytes": 10700480796,
+      "totalSizeMB": 10204.77,
+      "previewTrailers": [
+        "0000. HomeAura - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. HomeAura - Room Tour Minimalis.mp4",
+        "0002. HomeAura - Room Tour Minimalis.mp4",
+        "0003. HomeAura - Room Tour Minimalis.mp4",
+        "0004. HomeAura - Room Tour Minimalis.mp4",
+        "0005. HomeAura - Room Tour Minimalis.mp4",
+        "0006. HomeAura - Room Tour Minimalis.mp4",
+        "0007. HomeAura - Room Tour Minimalis.mp4",
+        "0008. HomeAura - Room Tour Minimalis.mp4"
+      ],
+      "activeCleanClips": 1452,
+      "inactiveClips": 2,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDDD2B",
+      "brandCode": "CraftGenius",
+      "title": "Mentahan Vidkon Lifehack Kreatif",
+      "folderName": "IDDD2B - CraftGenius - Mentahan Vidkon Lifehack Kreatif",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDDD2B - CraftGenius - Mentahan Vidkon Lifehack Kreatif",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Lifehack & Kreativitas",
+      "mood": "Cerdas, Solutif, Praktis, Tak Terduga, Solusi Pintar",
+      "emotionalAura": "Cerdas, Solutif, Praktis, Tak Terduga, Solusi Pintar",
+      "tags": [
+        "lifehack",
+        "trik",
+        "kreatif",
+        "solusi pintar",
+        "alat sederhana",
+        "hemat",
+        "tips praktis"
+      ],
+      "wordTriggers": [
+        "lifehack",
+        "trik",
+        "kreatif",
+        "solusi pintar",
+        "alat sederhana",
+        "hemat",
+        "tips praktis",
+        "cara mudah",
+        "inovasi"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 3540,
+      "totalContentClips": 3539,
+      "totalAudios": 0,
+      "totalSizeBytes": 19591520128,
+      "totalSizeMB": 18683.93,
+      "previewTrailers": [
+        "0000. CraftGenius - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. CraftGenius - Lifehack Kreatif.mp4",
+        "0002. CraftGenius - Lifehack Kreatif.mp4",
+        "0003. CraftGenius - Lifehack Kreatif.mp4",
+        "0004. CraftGenius - Lifehack Kreatif.mp4",
+        "0005. CraftGenius - Lifehack Kreatif.mp4",
+        "0006. CraftGenius - Lifehack Kreatif.mp4",
+        "0007. CraftGenius - Lifehack Kreatif.mp4",
+        "0008. CraftGenius - Lifehack Kreatif.mp4"
+      ],
+      "activeCleanClips": 3539,
+      "inactiveClips": 1,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDE0C2",
+      "brandCode": "FYPVault",
+      "title": "Mentahan Vidkon Pemersatu Bangsa",
+      "folderName": "IDE0C2 - FYPVault - Mentahan Vidkon Pemersatu Bangsa",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDE0C2 - FYPVault - Mentahan Vidkon Pemersatu Bangsa",
+      "clusterId": "CLUSTER_PUBLIC_CHARM",
+      "clusterName": "Daya Tarik Publik, Persona & Hook Sorotan",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "ID1AF4",
+        "IDA71C",
+        "ID617C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Tren Populer & Pesona Publik",
+      "mood": "Daya Tarik Publik, Gaya Memikat, Sorotan, Tampil Keren, Viral",
+      "emotionalAura": "Daya Tarik Publik, Gaya Memikat, Sorotan, Tampil Keren, Viral",
+      "tags": [
+        "pemersatu bangsa",
+        "publik",
+        "gaya",
+        "pesona",
+        "daya tarik",
+        "memikat",
+        "sorotan",
+        "viral",
+        "fyp"
+      ],
+      "wordTriggers": [
+        "pemersatu bangsa",
+        "publik",
+        "terlihat bagus di publik",
+        "gaya",
+        "pesona",
+        "daya tarik",
+        "memikat",
+        "sorotan",
+        "tampil",
+        "cantik",
+        "elegan",
+        "aura publik",
+        "viral",
+        "fyp",
+        "tren",
+        "pamer",
+        "gaya hidup",
+        "pengakuan sosial"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1488,
+      "totalContentClips": 1486,
+      "totalAudios": 0,
+      "totalSizeBytes": 2612831118,
+      "totalSizeMB": 2491.79,
+      "previewTrailers": [
+        "0000. FYPVault - Preview Trailer 1.mp4",
+        "0000. FYPVault - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. FYPVault - Pemersatu Bangsa.mp4",
+        "0002. FYPVault - Pemersatu Bangsa.mp4",
+        "0003. FYPVault - Pemersatu Bangsa.mp4",
+        "0004. FYPVault - Pemersatu Bangsa.mp4",
+        "0005. FYPVault - Pemersatu Bangsa.mp4",
+        "0006. FYPVault - Pemersatu Bangsa.mp4",
+        "0007. FYPVault - Pemersatu Bangsa.mp4",
+        "0008. FYPVault - Pemersatu Bangsa.mp4"
+      ],
+      "activeCleanClips": 1486,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDE5EF",
+      "brandCode": "MechTech",
+      "title": "Mentahan Vidkon Mesin Manufaktur",
+      "folderName": "IDE5EF - MechTech - Mentahan Vidkon Mesin Manufaktur",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDE5EF - MechTech - Mentahan Vidkon Mesin Manufaktur",
+      "clusterId": "CLUSTER_CRAFT_TRANSFORMATION",
+      "clusterName": "Eksekusi Keras, Keterampilan & Transformasi Nyata",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "ID3C1F",
+        "IDDD2B",
+        "IDE5EF",
+        "ID557A",
+        "ID380D"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Teknologi & Industri Manufaktur",
+      "mood": "Canggih, Raksasa, Kuat, Manufaktur, Presisi Baja",
+      "emotionalAura": "Canggih, Raksasa, Kuat, Manufaktur, Presisi Baja",
+      "tags": [
+        "mesin",
+        "manufaktur",
+        "pabrik",
+        "robot industri",
+        "cnc",
+        "besi",
+        "baja",
+        "otomasi",
+        "teknologi"
+      ],
+      "wordTriggers": [
+        "mesin",
+        "manufaktur",
+        "pabrik",
+        "robot industri",
+        "cnc",
+        "besi",
+        "baja",
+        "otomasi",
+        "teknologi berat",
+        "produksi",
+        "industri"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 636,
+      "totalContentClips": 634,
+      "totalAudios": 0,
+      "totalSizeBytes": 2954606535,
+      "totalSizeMB": 2817.73,
+      "previewTrailers": [
+        "0000. MechTech - Preview Trailer 1.mp4",
+        "0000. MechTech - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. MechTech - Mesin Manufaktur.mp4",
+        "0002. MechTech - Mesin Manufaktur.mp4",
+        "0003. MechTech - Mesin Manufaktur.mp4",
+        "0004. MechTech - Mesin Manufaktur.mp4",
+        "0005. MechTech - Mesin Manufaktur.mp4",
+        "0006. MechTech - Mesin Manufaktur.mp4",
+        "0007. MechTech - Mesin Manufaktur.mp4",
+        "0008. MechTech - Mesin Manufaktur.mp4"
+      ],
+      "activeCleanClips": 634,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDE830",
+      "brandCode": "RetroIndo",
+      "title": "Mentahan Vidkon Bioskop Lawas",
+      "folderName": "IDE830 - RetroIndo - Mentahan Vidkon Bioskop Lawas",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDE830 - RetroIndo - Mentahan Vidkon Bioskop Lawas",
+      "clusterId": "CLUSTER_NOSTALGIA_HISTORY",
+      "clusterName": "Memori Masa Lalu, Bioskop Lawas & Sejarah",
+      "clusterRole": "PRIMARY_ANCHOR",
+      "kinshipSiblings": [
+        "IDE8B2"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_TECH_FUTURE",
+        "CLUSTER_HUMOR_SATIRE"
+      ],
+      "category": "Nostalgia & Bioskop Lawas",
+      "mood": "Jadul, Klasik, Kenangan, Retro, Masa Lampau Indonesia",
+      "emotionalAura": "Jadul, Klasik, Kenangan, Retro, Masa Lampau Indonesia",
+      "tags": [
+        "retro",
+        "lawas",
+        "bioskop jadul",
+        "indonesia 80an",
+        "indonesia 90an",
+        "nostalgia",
+        "film lama"
+      ],
+      "wordTriggers": [
+        "bioskop",
+        "lawas",
+        "bioskop jadul",
+        "indonesia 80an",
+        "indonesia 90an",
+        "nostalgia",
+        "film lama",
+        "zaman dulu",
+        "tempo dulu",
+        "orang tua kita",
+        "masa lalu",
+        "sejarah",
+        "klasik",
+        "jadul"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 150,
+      "totalContentClips": 148,
+      "totalAudios": 0,
+      "totalSizeBytes": 10294710412,
+      "totalSizeMB": 9817.8,
+      "previewTrailers": [
+        "0000. RetroIndo - Preview Trailer 1.mp4",
+        "0000. RetroIndo - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. RetroIndo - Bioskop Lawas.mp4",
+        "0002. RetroIndo - Bioskop Lawas.mp4",
+        "0003. RetroIndo - Bioskop Lawas.mp4",
+        "0004. RetroIndo - Bioskop Lawas.mp4",
+        "0005. RetroIndo - Bioskop Lawas.mp4",
+        "0006. RetroIndo - Bioskop Lawas.mp4",
+        "0007. RetroIndo - Bioskop Lawas.mp4",
+        "0008. RetroIndo - Bioskop Lawas.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 150,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "IDE8B2",
+      "brandCode": "CineRecap",
+      "title": "Mentahan Vidkon Rekap Alur Film",
+      "folderName": "IDE8B2 - CineRecap - Mentahan Vidkon Rekap Alur Film",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDE8B2 - CineRecap - Mentahan Vidkon Rekap Alur Film",
+      "clusterId": "CLUSTER_NOSTALGIA_HISTORY",
+      "clusterName": "Memori Masa Lalu, Bioskop Lawas & Sejarah",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDE8B2"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_TECH_FUTURE",
+        "CLUSTER_HUMOR_SATIRE"
+      ],
+      "category": "Rangkuman & Alur Film",
+      "mood": "Penasaran, Alur Cerita, Spoiler, Kisah Sinematik",
+      "emotionalAura": "Penasaran, Alur Cerita, Spoiler, Kisah Sinematik",
+      "tags": [
+        "rekap alur cerita",
+        "alur film",
+        "rangkuman",
+        "dongeng",
+        "spoiler",
+        "alur sinopsis"
+      ],
+      "wordTriggers": [
+        "rekap alur cerita",
+        "alur film",
+        "rangkuman",
+        "dongeng",
+        "spoiler",
+        "alur sinopsis",
+        "cerita film",
+        "kisah"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 971,
+      "totalContentClips": 969,
+      "totalAudios": 0,
+      "totalSizeBytes": 7877482583,
+      "totalSizeMB": 7512.55,
+      "previewTrailers": [
+        "0000. CineRecap - Preview Trailer 1.mp4",
+        "0000. CineRecap - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. CineRecap - Rekap Alur Film.mp4",
+        "0002. CineRecap - Rekap Alur Film.mp4",
+        "0003. CineRecap - Rekap Alur Film.mp4",
+        "0004. CineRecap - Rekap Alur Film.mp4",
+        "0005. CineRecap - Rekap Alur Film.mp4",
+        "0006. CineRecap - Rekap Alur Film.mp4",
+        "0007. CineRecap - Rekap Alur Film.mp4",
+        "0008. CineRecap - Rekap Alur Film.mp4"
+      ],
+      "activeCleanClips": 0,
+      "inactiveClips": 971,
+      "curationTier": "TIER_ELIMINATED",
+      "curationTierLabel": "Eliminasi Mutlak",
+      "curationStatus": "ELIMINATED"
+    },
+    {
+      "sku": "IDEAD7",
+      "brandCode": "JoyPaws",
+      "title": "Mentahan Vidkon Interaksi Anabul",
+      "folderName": "IDEAD7 - JoyPaws - Mentahan Vidkon Interaksi Anabul",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDEAD7 - JoyPaws - Mentahan Vidkon Interaksi Anabul",
+      "clusterId": "CLUSTER_INNOCENCE_PETS",
+      "clusterName": "Hewan Peliharaan Lucu & Dunia Anak",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDEAD7",
+        "ID5FF3",
+        "IDEF4B"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Hewan & Interaksi Manusia",
+      "mood": "Setia, Mengharukan, Persahabatan, Hangat",
+      "emotionalAura": "Setia, Mengharukan, Persahabatan, Hangat",
+      "tags": [
+        "interaksi anabul",
+        "hewan setia",
+        "sahabat manusia",
+        "kucing anjing",
+        "penyelamatan hewan"
+      ],
+      "wordTriggers": [
+        "interaksi anabul",
+        "hewan setia",
+        "sahabat manusia",
+        "kucing anjing",
+        "penyelamatan hewan",
+        "kesetiaan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1095,
+      "totalContentClips": 1093,
+      "totalAudios": 0,
+      "totalSizeBytes": 5671722870,
+      "totalSizeMB": 5408.98,
+      "previewTrailers": [
+        "0000. JoyPaws - Preview Trailer 1.mp4",
+        "0000. JoyPaws - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. JoyPaws - Interaksi Anabul.mp4",
+        "0002. JoyPaws - Interaksi Anabul.mp4",
+        "0003. JoyPaws - Interaksi Anabul.mp4",
+        "0004. JoyPaws - Interaksi Anabul.mp4",
+        "0005. JoyPaws - Interaksi Anabul.mp4",
+        "0006. JoyPaws - Interaksi Anabul.mp4",
+        "0007. JoyPaws - Interaksi Anabul.mp4",
+        "0008. JoyPaws - Interaksi Anabul.mp4"
+      ],
+      "activeCleanClips": 1093,
+      "inactiveClips": 2,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDEBCB",
+      "brandCode": "ThaiVibes",
+      "title": "Mentahan Vidkon Komedi Thailand",
+      "folderName": "IDEBCB - ThaiVibes - Mentahan Vidkon Komedi Thailand",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDEBCB - ThaiVibes - Mentahan Vidkon Komedi Thailand",
+      "clusterId": "CLUSTER_HUMOR_SATIRE",
+      "clusterName": "Komedi, Satir & Absurditas Kehidupan",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDEBCB",
+        "IDC50B",
+        "IDA71C"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Komedi Internasional Thailand",
+      "mood": "Kocak, Ekspresif, Absurd, Tertawa, Parodi Asia",
+      "emotionalAura": "Kocak, Ekspresif, Absurd, Tertawa, Parodi Asia",
+      "tags": [
+        "komedi thailand",
+        "iklan lucu",
+        "ngakak",
+        "humor asia",
+        "ekspresi kocak"
+      ],
+      "wordTriggers": [
+        "komedi thailand",
+        "iklan lucu",
+        "ngakak",
+        "humor asia",
+        "ekspresi kocak",
+        "lucu banget",
+        "lelucon"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1201,
+      "totalContentClips": 1199,
+      "totalAudios": 0,
+      "totalSizeBytes": 9475689693,
+      "totalSizeMB": 9036.72,
+      "previewTrailers": [
+        "0000. ThaiVibes - Preview Trailer 1.mp4",
+        "0000. ThaiVibes - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. ThaiVibes - Komedi Thailand.mp4",
+        "0002. ThaiVibes - Komedi Thailand.mp4",
+        "0003. ThaiVibes - Komedi Thailand.mp4",
+        "0004. ThaiVibes - Komedi Thailand.mp4",
+        "0005. ThaiVibes - Komedi Thailand.mp4",
+        "0006. ThaiVibes - Komedi Thailand.mp4",
+        "0007. ThaiVibes - Komedi Thailand.mp4",
+        "0008. ThaiVibes - Komedi Thailand.mp4"
+      ],
+      "activeCleanClips": 1199,
+      "inactiveClips": 2,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDEF4B",
+      "brandCode": "ToyPlay",
+      "title": "Mentahan Vidkon Unboxing Mainan Anak",
+      "folderName": "IDEF4B - ToyPlay - Mentahan Vidkon Unboxing Mainan Anak",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDEF4B - ToyPlay - Mentahan Vidkon Unboxing Mainan Anak",
+      "clusterId": "CLUSTER_INNOCENCE_PETS",
+      "clusterName": "Hewan Peliharaan Lucu & Dunia Anak",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDEAD7",
+        "ID5FF3",
+        "IDEF4B"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HARD_REALITY",
+        "CLUSTER_MELANCHOLY_SOUL"
+      ],
+      "category": "Anak & Mainan",
+      "mood": "Ceria, Edukatif, Penasaran, Warna-warni, Playtime",
+      "emotionalAura": "Ceria, Edukatif, Penasaran, Warna-warni, Playtime",
+      "tags": [
+        "unboxing mainan",
+        "mobilan",
+        "lego",
+        "action figure",
+        "anak-anak",
+        "playtime"
+      ],
+      "wordTriggers": [
+        "unboxing mainan",
+        "mobilan",
+        "lego",
+        "action figure",
+        "anak-anak",
+        "playtime",
+        "mainan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 984,
+      "totalContentClips": 983,
+      "totalAudios": 0,
+      "totalSizeBytes": 4041699562,
+      "totalSizeMB": 3854.47,
+      "previewTrailers": [
+        "0000. ToyPlay - Preview Trailer 1.mp4"
+      ],
+      "sampleClips": [
+        "0001. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0002. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0003. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0004. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0005. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0006. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0007. ToyPlay - Unboxing Mainan Anak.mp4",
+        "0008. ToyPlay - Unboxing Mainan Anak.mp4"
+      ],
+      "activeCleanClips": 983,
+      "inactiveClips": 1,
+      "curationTier": "TIER_3_ROLLING",
+      "curationTierLabel": "Rolling Cadangan / Deprioritized",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDFCC3",
+      "brandCode": "DuskAura",
+      "title": "Mentahan Vidkon Senja Indie",
+      "folderName": "IDFCC3 - DuskAura - Mentahan Vidkon Senja Indie",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDFCC3 - DuskAura - Mentahan Vidkon Senja Indie",
+      "clusterId": "CLUSTER_MELANCHOLY_SOUL",
+      "clusterName": "Refleksi Jiwa, Melankolis & Kedalaman Batin",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDFCC3",
+        "ID7667",
+        "ID4834",
+        "IDCB24"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Estetika & Sinematik Senja",
+      "mood": "Puitis, Senja, Tenang, Kopi, Indie, Perenungan",
+      "emotionalAura": "Puitis, Senja, Tenang, Kopi, Indie, Perenungan",
+      "tags": [
+        "senja",
+        "indie",
+        "golden hour",
+        "kopi",
+        "jalan sore",
+        "langit oranye",
+        "puitis",
+        "estetik"
+      ],
+      "wordTriggers": [
+        "senja",
+        "indie",
+        "golden hour",
+        "kopi",
+        "jalan sore",
+        "langit oranye",
+        "puitis",
+        "estetik",
+        "sore hari",
+        "matahari terbenam",
+        "sunyi"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1411,
+      "totalContentClips": 1409,
+      "totalAudios": 0,
+      "totalSizeBytes": 3458536566,
+      "totalSizeMB": 3298.32,
+      "previewTrailers": [
+        "0000. DuskAura - Preview Trailer 1.mp4",
+        "0000. DuskAura - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. DuskAura - Senja Indie.mp4",
+        "0002. DuskAura - Senja Indie.mp4",
+        "0003. DuskAura - Senja Indie.mp4",
+        "0004. DuskAura - Senja Indie.mp4",
+        "0005. DuskAura - Senja Indie.mp4",
+        "0006. DuskAura - Senja Indie.mp4",
+        "0007. DuskAura - Senja Indie.mp4",
+        "0008. DuskAura - Senja Indie.mp4"
+      ],
+      "activeCleanClips": 1409,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "IDFFA0",
+      "brandCode": "VoidVibes",
+      "title": "Mentahan Vidkon Dark Psychology",
+      "folderName": "IDFFA0 - VoidVibes - Mentahan Vidkon Dark Psychology",
+      "folderPath": "H:\\KATALOG_BAHAN_KONTEN_FOKUSKONTEN\\IDFFA0 - VoidVibes - Mentahan Vidkon Dark Psychology",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Alpha, Stoik & Realitas Keras",
+      "clusterRole": "KINSHIP_SIBLING",
+      "kinshipSiblings": [
+        "IDB7CA",
+        "IDFFA0",
+        "ID8F64",
+        "ID943F"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS",
+        "CLUSTER_DOMESTIC_COMMERCE"
+      ],
+      "category": "Psikologi & Dark Mindset",
+      "mood": "Tegang, Misterius, Mengintimidasi, Fakta Gelap, Tatapan Tajam",
+      "emotionalAura": "Tegang, Misterius, Mengintimidasi, Fakta Gelap, Tatapan Tajam",
+      "tags": [
+        "dark psychology",
+        "manipulasi",
+        "fakta psikologi",
+        "tatapan mata",
+        "bahasa tubuh",
+        "tegang",
+        "misteri",
+        "kuasa"
+      ],
+      "wordTriggers": [
+        "dark psychology",
+        "manipulasi",
+        "fakta psikologi",
+        "tatapan mata",
+        "bahasa tubuh",
+        "tegang",
+        "misteri",
+        "kuasa",
+        "kendali",
+        "psikologi gelap",
+        "intimidasi",
+        "senjata utama",
+        "pelarian"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 1524,
+      "totalContentClips": 1522,
+      "totalAudios": 0,
+      "totalSizeBytes": 7097942694,
+      "totalSizeMB": 6769.13,
+      "previewTrailers": [
+        "0000. VoidVibes - Preview Trailer 1.mp4",
+        "0000. VoidVibes - Preview Trailer 2.mp4"
+      ],
+      "sampleClips": [
+        "0001. VoidVibes - Dark Psychology.mp4",
+        "0002. VoidVibes - Dark Psychology.mp4",
+        "0003. VoidVibes - Dark Psychology.mp4",
+        "0004. VoidVibes - Dark Psychology.mp4",
+        "0005. VoidVibes - Dark Psychology.mp4",
+        "0006. VoidVibes - Dark Psychology.mp4",
+        "0007. VoidVibes - Dark Psychology.mp4",
+        "0008. VoidVibes - Dark Psychology.mp4"
+      ],
+      "activeCleanClips": 1522,
+      "inactiveClips": 2,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID_MASTER_STORY",
+      "brandCode": "MasterStory",
+      "title": "Master Exclusive Story & B-Roll",
+      "folderName": "00_Footage_Master",
+      "folderPath": "./assets/footage",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Realitas Keras, Ketegaran Pria & Perjuangan Hidup",
+      "clusterRole": "NARRATIVE_EXCLUSIVE",
+      "kinshipSiblings": [
+        "ID9919",
+        "IDFFA0",
+        "ID557A",
+        "ID9C29",
+        "IDB7CA"
+      ],
+      "forbiddenClusters": [
+        "CLUSTER_HUMOR_SATIRE",
+        "CLUSTER_INNOCENCE_PETS"
+      ],
+      "category": "Narasi Stoik & Realitas Nyata",
+      "mood": "Stoik, Sejarah, Perjuangan, Monumen, Hening, Nyata",
+      "emotionalAura": "Stoik, Sejarah, Perjuangan, Monumen, Hening, Nyata",
+      "tags": [
+        "master",
+        "badai",
+        "petir",
+        "monumen",
+        "silat",
+        "bela diri",
+        "sejarah",
+        "pejuang",
+        "gerilya",
+        "meditasi",
+        "tasbih",
+        "balkon",
+        "cakrawala",
+        "ledakan",
+        "kemerdekaan",
+        "pahlawan",
+        "berakar kuat",
+        "alam",
+        "puing"
+      ],
+      "wordTriggers": [
+        "badai",
+        "petir",
+        "monumen",
+        "silat",
+        "gelanggang",
+        "emosi",
+        "matahari",
+        "kabut",
+        "meditasi",
+        "keheningan",
+        "tasbih",
+        "cakrawala",
+        "ledakan",
+        "menggetarkan",
+        "gerilya",
+        "baja",
+        "kemerdekaan"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 107,
+      "totalContentClips": 107,
+      "totalAudios": 0,
+      "totalSizeBytes": 1000000000,
+      "totalSizeMB": 953.67,
+      "activeCleanClips": 107,
+      "inactiveClips": 0,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    },
+    {
+      "sku": "ID_BRAND_FK",
+      "brandCode": "BrandFK",
+      "title": "Brand FokusKonten Official Outro",
+      "folderName": "branding",
+      "folderPath": "./assets/branding",
+      "clusterId": "CLUSTER_HARD_REALITY",
+      "clusterName": "Branding & Penutup Resmi",
+      "clusterRole": "OUTRO_BUMPER",
+      "kinshipSiblings": [
+        "ID9919"
+      ],
+      "forbiddenClusters": [],
+      "category": "Brand & Identitas Resmi",
+      "mood": "Megah, Wibawa, 3D Chrome, Obsidian Marmer",
+      "emotionalAura": "Megah, Wibawa, 3D Chrome, Obsidian Marmer",
+      "tags": [
+        "brand",
+        "logo",
+        "outro",
+        "fokuskonten",
+        "3d metalik",
+        "pedestal",
+        "obsidian",
+        "marmer",
+        "penutup",
+        "identitas",
+        "resmi",
+        "wibawa"
+      ],
+      "wordTriggers": [
+        "outro",
+        "brand",
+        "fokuskonten",
+        "logo",
+        "baja",
+        "ditundukkan",
+        "klimaks"
+      ],
+      "aspectRatio": "9:16 Vertical (Mobile / Shorts / TikTok)",
+      "totalVideos": 4,
+      "totalContentClips": 4,
+      "totalAudios": 0,
+      "totalSizeBytes": 50000000,
+      "totalSizeMB": 47.68,
+      "activeCleanClips": 4,
+      "inactiveClips": 0,
+      "curationTier": "TIER_1_CORE",
+      "curationTierLabel": "Andalan Utama",
+      "curationStatus": "ACTIVE"
+    }
+  ],
+  "curationMetadata": {
+    "lastUpdated": "2026-10-02T22:07:57.185Z",
+    "totalBundles": 35,
+    "tier1CoreCount": 11,
+    "tier2VerifiedCount": 7,
+    "tier3RollingCount": 9,
+    "tierEliminatedCount": 8,
+    "totalActiveCleanClips": 27185,
+    "totalEliminatedClips": 3872
+  }
+}

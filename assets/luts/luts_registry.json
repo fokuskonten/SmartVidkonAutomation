@@ -1,0 +1,68 @@
+﻿{
+  "totalLuts": 11,
+  "updated_at": "2026-10-03T04:36:21.033Z",
+  "luts": [
+    {
+      "name": "CONTRASTY COLD",
+      "file": "lut_contrasty_cold.cube",
+      "preview": "preview_contrasty_cold.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "DEEP TEAL",
+      "file": "lut_deep_teal.cube",
+      "preview": "preview_deep_teal.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "GOLDEN WARM",
+      "file": "lut_golden_warm.cube",
+      "preview": "preview_golden_warm.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "NEUTRAL FADE",
+      "file": "lut_neutral_fade.cube",
+      "preview": "preview_neutral_fade.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "NORDIC COLD",
+      "file": "lut_nordic_cold.cube",
+      "preview": "preview_nordic_cold.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "TEAL ORANGE",
+      "file": "lut_teal_orange.cube",
+      "preview": "preview_teal_orange.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "WARM CONTRASTY",
+      "file": "lut_warm_contrasty.cube",
+      "preview": "preview_warm_contrasty.jpg",
+      "size_bytes": 114704
+    },
+    {
+      "name": "WED [1] - LOG",
+      "file": "WED [1] - LOG.cube",
+      "uploaded_at": "2026-10-03T05:01:55.9393681Z"
+    },
+    {
+      "name": "WED [5] - LOG",
+      "file": "WED [5] - LOG.cube",
+      "uploaded_at": "2026-10-03T05:02:07.1461848Z"
+    },
+    {
+      "name": "WED [6] - LOG",
+      "file": "WED [6] - LOG.cube",
+      "uploaded_at": "2026-10-03T05:02:07.2370091Z"
+    },
+    {
+      "name": "WED [7] - LOG",
+      "file": "WED [7] - LOG.cube",
+      "uploaded_at": "2026-10-03T05:02:07.3327545Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+================================================================================
+CARA AKTIVASI LISENSI RESMI — SMART VIDKON AUTOMATION
+================================================================================
+
+Smart Vidkon Automation menggunakan teknologi verifikasi kriptografis offline 
+anti-tamper yang terikat dengan Machine GUID perangkat Windows Anda.
+
+A. AKTIVASI LISENSI RESMI:
+1. Buka aplikasi Smart Vidkon Automation.
+2. Jika lisensi belum aktif, dialog aktivasi akan muncul otomatis di layar.
+   (Atau buka menu [07 Pengaturan & Lisensi] di sidebar kiri -> klik "Aktivasi Serial Baru").
+3. Salin Machine GUID Anda dengan menekan tombol "Salin ID".
+4. Masukkan Kunci Serial resmi yang Anda dapatkan dari Admin FokusKonten.
+   Format Serial: SVID-XXXX-XXXX-XXXX-XXXX
+5. Klik tombol "Aktivasi Lisensi Resmi".
+6. Lisensi Anda akan aktif selamanya tanpa memerlukan koneksi internet untuk validasi.
+
+B. MENGGUNAKAN MODE UJI COBA (TRIAL 14 HARI):
+1. Pada jendela dialog aktivasi lisensi, klik tombol "Gunakan Mode Uji Coba (14 Hari)".
+2. Aplikasi akan mengaktifkan lisensi trial resmi secara instan selama 14 hari penuh.
+3. Seluruh fitur perakitan video dan generator naskah AI dapat digunakan tanpa batas.
+
+C. LAYANAN BANTUAN & PEMBELIAN LISENSI:
+- WhatsApp Customer Care: 0851-8301-1318 (FokusKonten Official)
+- Website Resmi: https://fokuskonten.com
+- Kompatibilitas Sistem: Windows 10 / Windows 11 (64-Bit), NVIDIA GPU NVENC Recommended.
+
+================================================================================
+Hak Cipta © 2026 FokusKonten Enterprise. Seluruh hak cipta dilindungi.
+================================================================================

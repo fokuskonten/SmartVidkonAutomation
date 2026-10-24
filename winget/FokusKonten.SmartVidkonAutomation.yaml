@@ -1,0 +1,7 @@
+# Created with WinGet Automation Manifest Generator
+# Package: FokusKonten.SmartVidkonAutomation
+PackageIdentifier: FokusKonten.SmartVidkonAutomation
+PackageVersion: 1.0.0
+DefaultLocale: id-ID
+ManifestType: version
+ManifestVersion: 1.6.0

@@ -1,0 +1,26 @@
+# Created with WinGet Automation Manifest Generator
+# Package: FokusKonten.SmartVidkonAutomation
+PackageIdentifier: FokusKonten.SmartVidkonAutomation
+PackageVersion: 1.0.0
+PackageLocale: id-ID
+Publisher: FokusKonten Enterprise
+PublisherUrl: https://fokuskonten.my.id
+PublisherSupportUrl: https://fokuskonten.my.id/hubungi-kami/
+Author: Muhari
+PackageName: Smart Vidkon Automation
+PackageUrl: https://fokuskonten.my.id/toko-digital/
+License: Proprietary
+LicenseUrl: https://fokuskonten.my.id/kebijakan-privasi/
+Copyright: Copyright (c) 2026 FokusKonten Enterprise
+ShortDescription: Platform otomasi perakitan video edukasi vertikal mandiri dan cerdas.
+Description: Smart Vidkon Automation adalah perangkat lunak desktop mandiri untuk perakitan video edukasi vertikal bertenaga AI lokal (NVENC) dan cloud. Dilengkapi pratinjau audio real-time, seleksi footage karakter cerdas, rotasi BGM otomatis, dan color grading sinematik.
+Moniker: smart-vidkon
+Tags:
+  - video
+  - automation
+  - content-creation
+  - editor
+  - production
+  - creator-tools
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

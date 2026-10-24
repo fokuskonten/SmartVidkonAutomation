@@ -1,0 +1,66 @@
+# ==============================================================================
+# Smart Vidkon Automation Pro - Git Exclusions
+# Zero-Bloat Doktrin: Mencegah berkas media besar & biner uji masuk ke Git Repository
+# Siap untuk Distribusi Publik & Registri Windows Package Manager (Winget)
+# ==============================================================================
+
+# 1. Distributable & Render Outputs
+dist/*
+!dist/.gitkeep
+projects/*
+!projects/.gitkeep
+installer/
+Motion_Factory_Packs/
+*.7z
+*.zip
+*.tar.gz
+
+# 2. Binary Executables (Diunduh via Winget / Release Pipeline)
+bin/*.exe
+!bin/.gitkeep
+SmartVidkonAutomation.exe
+*.pdb
+*.obj
+desktop/bin/
+desktop/obj/
+bin/ffmpeg.exe
+bin/ffprobe.exe
+bin/node.exe
+
+# 3. Heavy Media Assets (Hanya untuk Uji Coba Lokal Dev)
+assets/bgm/**/*.mp3
+assets/bgm/**/*.wav
+assets/bgm/**/*.aac
+assets/bgm/**/*.ogg
+!assets/bgm/.gitkeep
+assets/footage/**/*.mp4
+assets/footage/**/*.mkv
+assets/footage/**/*.mov
+assets/footage/**/*.avi
+!assets/footage/.gitkeep
+!assets/footage/README.txt
+assets/branding/**/*.mp4
+assets/branding/**/*.mov
+!assets/branding/.gitkeep
+!assets/branding/SmartVidkon_Logo.png
+assets/luts/**/*.cube
+assets/luts/**/*.jpg
+!assets/luts/.gitkeep
+!assets/luts/luts_registry.json
+
+# 4. Heavy Database Files (Skema & JSON Summary tetap dipertahankan)
+database/*.db
+database/*.db-wal
+database/*.db-shm
+!database/.gitkeep
+!database/katalog_vidcon_summary.json
+
+# 5. User Secrets & Master Keys (WAJIB DILINDUNGI)
+config/studio_api_vault.json
+config/studio_api_vault.json.bak
+config/license.key
+100_KUNCI_LISENSI_MASTER.txt
+*.log
+*.tmp
+scratch/
+.vs/
